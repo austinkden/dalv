@@ -191,7 +191,7 @@ const routes = {
     },
 
     lytv: {
-        mdpc: { haul: "Long", altitude: "080", sid: { 32: sids.lytv.OLIVU32, 14: sids.lytv.NAPEV14 }, route: "OLIVU SYOL4 JELLY BETIR", star: { 8: stars.mdpc.BETIR1W, 9: stars.mdpc.BETIR1W, 26: stars._vectors, 27: stars._vectors } },
+        mdpc: { haul: "Long", altitude: "080", sid: { 32: sids.lytv.OLIVU32, 14: sids.lytv.NAPEV14 }, route: "NAPEV ANTEX", star: { 8: stars.mdpc.ANTEX1W, 9: stars.mdpc.ANTEX1W, 26: stars._vectors, 27: stars._vectors } },
         mdst: { haul: "Long", altitude: "085", sid: { 32: sids.lytv.OLIVU32, 14: sids.lytv.NAPEV14 }, route: "OLIVU SYOL4 VAXRI ODEGI PC114 PC115 PC113", star: { 11: stars._vectors, 29: stars._vectors } },
         lemh: { haul: "Short", altitude: "050", sid: { 32: sids.lytv.OLIVU32, 14: sids.lytv.NAPEV14 }, route: "OLIVU MNH31", star: { 1: stars._vectors, 19: stars._vectors} },
         gclp: { haul: "Short", altitude: "070", sid: { 32: sids.lytv.OLIVU32, 14: sids.lytv.NAPEV14 }, route: "SYOL4 MUNCHY COSTI", star: { 3: stars.gclp.COSTI1C, 21: stars.gclp.COSTI1C} },
